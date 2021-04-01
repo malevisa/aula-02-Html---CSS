@@ -20,7 +20,7 @@ body {
 .titulo {
     float: left;
     color: white;
-    font-size: large;
+    font-size: x-large;
 }
 
 .prototipo {
@@ -43,4 +43,38 @@ ul li {
 
 .home {
     color: orange;
+}
+
+.titulo {
+    float: left;
+    color: white;
+    font-size: x-large;
+}
+
+.titulo2 {
+    float: right;
+    padding-top: 2%;
+}
+.button {
+    background-color: orange;
+    color: white;
+}
+
+.linha{
+    background-color: orange;
+    height: 3px;
+}
+
+.topicos{
+    height: 100px;
+    float: left;
+}
+
+.topicos1{
+    height: 100px;
+}
+
+.topicos2{
+    height: 100px;
+    float: right;
 }
