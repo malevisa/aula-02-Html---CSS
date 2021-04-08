@@ -24,7 +24,7 @@ body {
 }
 
 .prototipo {
-    color: orange;
+    color: orangered;
 }
 
 .cabecalho nav {
@@ -42,7 +42,7 @@ ul li {
 }
 
 .login {
-    color: orange;
+    color: orangered;
 }
 
 .pag-login {
@@ -62,6 +62,8 @@ ul li {
 
 .pag-login .input-padrao {
     width: 50%;
+    height: 30px;
+    border-radius: 10px;
     display: inline-block;
 }
 
@@ -74,4 +76,20 @@ ul li {
 
     border-radius: 5px;
     
+}
+
+.footer {
+    background-color: orangered;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer p {
+    margin: 0;
+    color: white;
+    padding-top: 40px;
+    text-align: center;
+    font-size: 20px;
 }
