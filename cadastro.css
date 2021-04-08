@@ -46,7 +46,35 @@ ul li {
     color: orangered;
 }
 
+.pag-cadastro {
+    background-color: #eff0f1;
+    padding: 50px 0 350px;
+}
 
+.box-cadastro {
+    margin-left: 50px;
+}
+
+.input-padrao {
+    width: 40%;
+    height: 25px;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+.botao-verde {
+    color: white;
+    background-color: green;
+    margin: 20px 0 50px 0;
+    border: 0;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+
+.imagem {
+    float: right;
+}
 
 /*footer*/
 .footer {
