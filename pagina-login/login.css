@@ -42,41 +42,45 @@ ul li {
     margin-left: 25px;
 }
 
-.home {
+.login {
     color: orangered;
 }
 
-.pag-cadastro {
+.pag-login {
     background-color: #eff0f1;
-    padding: 50px 0 350px;
+    text-align: center;
+    padding: 50px 0;
 }
 
-.box-cadastro {
-    margin-left: 50px;
+.box-login {
+    display: inline-block;
+    background-color: white;
+    box-shadow: 3px 3px 5px 2px #ccc;
+    padding: 60px 20px 0px 20px;
+    border-radius: 20px;
+    width: 400px;
 }
 
-.input-padrao {
-    width: 40%;
-    height: 25px;
-    border-radius: 10px;
+.pag-login .input-padrao {
+    width: 50%;
+    height: 30px;
+    border: 1px solid;
+    padding: 1px 10px;
+    border-radius: 5px;
     display: inline-block;
 }
 
-.botao-verde {
+.btn-green {
     color: white;
     background-color: green;
     margin: 20px 0 50px 0;
     border: 0;
     padding: 10px 20px;
+
     border-radius: 5px;
+    
 }
 
-
-.imagem {
-    float: right;
-}
-
-/*footer*/
 .footer {
     background-color: orangered;
     height: 200px;
